@@ -3,4 +3,10 @@
 //we can create array by two types
 
 //1) Syntax : int a[5]={1,2,3,4,5}; declaration and initialization
-//2) Syntax : int a=new int[5]; declaration // a[0]=1; initialization 
+//2) Syntax : int a=new int[5]; declaration // a[0]=1; initialization //The index starts from 0 
+index= length-1;
+a[1]=6;
+a[2]=9;
+a[3]=10;
+a[4]=11;
+a[5]=12;//ArrayBoundsOfLimitException 
