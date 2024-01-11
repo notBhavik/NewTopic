@@ -1,0 +1,6 @@
+//Creating an Array
+
+//we can create array by two types
+
+//1) Syntax : int a[5]={1,2,3,4,5}; declaration and initialization
+//2) Syntax : int a=new int[5]; declaration // a[0]=1; initialization 
